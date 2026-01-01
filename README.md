@@ -82,3 +82,9 @@ Expense-Tracker/
 3. **Run:** Press `F5` or click **Start Debugging**.
 
 *Note: Ensure the `.mdb` database file remains in the project root to maintain connection path integrity.*
+
+---
+
+## 📜 License
+
+MIT License
